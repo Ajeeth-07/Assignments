@@ -8,7 +8,6 @@ class Employee {
     private String name;
     private double salary;
 
-    // Constructor
     public Employee(int id, String name, double salary) {
         this.id = id;
         this.name = name;
